@@ -1,0 +1,14 @@
+{
+  "name": "chess_coordinates",
+  "version": "1.0.0",
+  "description": "This app trains you to be fluent in chess coordinates!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tulio Vieira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
