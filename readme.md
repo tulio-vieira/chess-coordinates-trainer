@@ -43,8 +43,9 @@ Run updateCellCoordinateData
     ```
 
 * Switch Quadrant function
-* Put this on the event listener of the quadrant selector
     ```
+    Put this on the event listener of the quadrant selector
+    
     Change global `quadrant` variable according to user's input.
     Call `Random Coordinate`. This step is necessary to avoid the current coordinate to be out of the selected quadrant.
     Call `Switch Quadrant display`.
