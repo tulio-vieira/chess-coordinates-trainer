@@ -1,6 +1,6 @@
 # Chess Coordinate Trainer
 
-This app helps you learn the chess board coordinates! You can use it [here](https://chess-coordinates-trainer.herokuapp.com).
+This app helps you learn the chess board coordinates! You can use it [here](https://tulio-vieira.github.io/chess-coordinates-trainer).
 
 ## Pseudocode
 
